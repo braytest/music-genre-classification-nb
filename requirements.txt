@@ -1,0 +1,9 @@
+youtube_dl
+tqdm
+numpy
+pandas
+IPython
+librosa
+matplotlib
+pylab
+
