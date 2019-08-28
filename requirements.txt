@@ -5,5 +5,4 @@ pandas
 IPython
 librosa
 matplotlib
-pylab
 
