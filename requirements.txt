@@ -1,7 +1,7 @@
 youtube_dl
 tqdm
 numpy
-pandas==0.22
+pandas
 IPython
 librosa
 matplotlib
